@@ -1,5 +1,6 @@
 LBS
 ==========
+[![Build Status](https://travis-ci.org/Callwoola/LBS.svg?branch=develop)](https://travis-ci.org/Callwoola/LBS)
 
 > This library is part of [Project Golem](http://golem.yoozi.cn/), see [yoozi/golem](https://github.com/yoozi/golem) for more info.
 
